@@ -350,3 +350,6 @@ MIT — use this however you want.
 
 
 > Based on the Your-OWN-AI project by perryvegehan (tutorial by padhowithPratyush). Modified by Rachit Chaudhary.
+
+
+> Based on the Your-OWN-AI project by perryvegehan (tutorial by padhowithPratyush). Modified by Rachit Chaudhary.
