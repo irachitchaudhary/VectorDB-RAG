@@ -1,18 +1,4 @@
-# Compiled binaries
-*.exe
-*.o
-*.out
-a.out
-
-# Build directories
-build/
-bin/
-
-# IDE files
-.vscode/
-.idea/
-*.user
-
-# OS files
-.DS_Store
-Thumbs.db
+db.exe
+test.exe
+test.cpp
+compile-error.txt
